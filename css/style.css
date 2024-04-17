@@ -25,6 +25,7 @@ article {
 article img {
     width: 100%;
     max-width: 600px;
+    border-radius: 50px;
 }
 p {
     line-height: 20px;
